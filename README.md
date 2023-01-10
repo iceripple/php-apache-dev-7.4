@@ -1,6 +1,6 @@
-# php-apache-dev-7.4
+# php-apache-dev-8.0
 
-PHP-apache-dev:7.4 for Apple Silicon M1 ARM
+PHP-apache-dev:8.0 for Apple Silicon M1 ARM
 
 Based on webdevops/Dockfile
-https://github.com/webdevops/Dockerfile/tree/master/docker/php-apache-dev/7.4
+https://github.com/webdevops/Dockerfile/tree/master/docker/php-apache-dev/8.0
