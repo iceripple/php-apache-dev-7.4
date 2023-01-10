@@ -1,12 +1,12 @@
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# Dockerfile for runner668/php-apache-dev:7.4
+# Dockerfile for iceripple/php-apache-dev:8.0
 #
 # Based on webdevops/Dockerfile
-# (https://github.com/webdevops/Dockerfile/tree/master/docker/php-apache-dev/7.4)
+# (https://github.com/webdevops/Dockerfile/tree/master/docker/php-apache-dev/8.0)
 #
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-FROM runner668/php-apache:7.4
+FROM iceripple/php-apache:8.0
 
 ENV WEB_DOCUMENT_ROOT=/app \
     WEB_DOCUMENT_INDEX=index.php \
